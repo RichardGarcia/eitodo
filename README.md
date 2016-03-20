@@ -1,4 +1,5 @@
-# Ei-todo
+# Ember Igniter - todo widget app
+http://emberigniter.com/new-to-ember-cli-start-here-2016-tutorial/
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
